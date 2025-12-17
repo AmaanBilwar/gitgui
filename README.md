@@ -4,22 +4,21 @@ this a gui application for me to learn [rust]([text](https://doc.rust-lang.org/b
 
 
 ### most commonly used commands i think?
-- [ ] git gui with tauri
-  - <details>
-      <summary>what git cmds do i use daily</summary>
 
-        * create:
-            - repo 
-            - issue 
-            - pr 
-            - branch / includes checkout 
-            
-        * review: 
-            - pr
+- create:
+    - repo 
+    - issue 
+    - pr 
+    - branch / includes checkout 
+    
+- review: 
+    - pr
 
-        * delete:
-            - branch 
+- delete:
+    - branch 
 
-        * view: 
-            - status
-  </details>
+- view: 
+    - status
+
+### libs 
+- git2
